@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+requests
+aiohttp
+python-multipart
+matplotlib
+mplfinance
+pandas
